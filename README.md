@@ -22,6 +22,8 @@ Vera Tapia, Patricio
 
 ### Miniflow [versión funcional](https://hackaton-teco-g10-client.vercel.app/) 
 
+Credenciales: test@gmail.com / 123456
+
 ### Repositorio BackEnd  [vínculo a GIT](https://github.com/BaltasarSanchez/miniflow2022)
 ### Repositorio FrontEnd  [vínculo a GIT](https://github.com/Melt04/Hackaton-Teco-G10-client)
 
